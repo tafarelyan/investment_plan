@@ -1,5 +1,3 @@
-import datetime
-
 import pandas as pd
 from investment_plan.data.data_handler import converter_valores_numericos
 
